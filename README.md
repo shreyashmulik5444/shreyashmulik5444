@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Shreyash Mulik
 
-<!--
-**shreyashmulik5444/shreyashmulik5444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student  
+📊 Aspiring Data Scientist & Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- Passionate about Machine Learning and Data Analysis
+- Currently building ML projects
+- Interested in Data-driven solutions
+
+---
+
+## 🔹 Skills
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- SQL
+
+---
+
+## 🔹 Projects
+- Zomato Data Analysis
+- AI Recommendation Engine
+- House Price Prediction
+
+---
+
+## 🔹 Currently Learning
+- Machine Learning
+- Model Deployment
+- Hyperparameter tuning
+- RAG
+
+---
+
+## 🔹 Connect With Me
+LinkedIn: www.linkedin.com/in/shreyash-r-m
