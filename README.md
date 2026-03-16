@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shreyash Mulik
+# Hello.. I'm Shreyash Mulik
 
 🎓 B.Tech CSE (Data Science) Student  
 📊 Aspiring Data Scientist & Machine Learning Enthusiast  
@@ -7,7 +7,7 @@
 
 ## 🔹 About Me
 - Passionate about Machine Learning and Data Analysis
-- Currently building ML projects
+- Currently building ML Models.
 - Interested in Data-driven solutions
 
 ---
