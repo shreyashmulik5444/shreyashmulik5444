@@ -5,14 +5,14 @@
 
 ---
 
-## 🔹 About Me
+## 🔸 About Me
 - Passionate about Machine Learning and Data Analysis
 - Currently building ML Models.
 - Interested in Data-driven solutions
 
 ---
 
-## 🔹 Skills
+## 🔸 Skills
 - Python
 - Pandas
 - NumPy
@@ -22,14 +22,14 @@
 
 ---
 
-## 🔹 Projects
+## 🔸 Projects
 - Zomato Data Analysis
 - AI Recommendation Engine
 - House Price Prediction
 
 ---
 
-## 🔹 Currently Learning
+## 🔸 Currently Learning
 - Machine Learning
 - Model Deployment
 - Hyperparameter tuning
@@ -37,5 +37,5 @@
 
 ---
 
-## 🔹 Connect With Me
+## 🔸 Connect With Me
 LinkedIn: www.linkedin.com/in/shreyash-r-m
