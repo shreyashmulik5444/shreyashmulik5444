@@ -1,7 +1,7 @@
 # Hello.. I'm Shreyash Mulik
 
-   B.Tech CSE (Data Science) Student  
-   Aspiring Data Scientist & Machine Learning Enthusiast  
+B.Tech CSE (Data Science) Student  
+Aspiring Data Scientist & Machine Learning Enthusiast  
 
 ---
 
