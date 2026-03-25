@@ -6,7 +6,7 @@
 ---
 
 ## 🔸 About Me
-As a data scientist, I am on The mission to master machine learning and AI. Passionate about solving complex problems And building impactful models, and continuously improving through experimentation and learning.
+As a data scientist, I am on The mission to master machine learning and AI. I Love solving complex problems And building impactful models, and continuously improving through experimentation and learning.
 I explore, experiment, build models, and continuously push my limits. Every project is a step forward, every failure is a lesson.
 
 
