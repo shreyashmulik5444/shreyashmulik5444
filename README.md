@@ -6,9 +6,7 @@
 ---
 
 ## 🔸 About Me
-- Passionate about Machine Learning and Data Analysis
-- Currently building ML Models.
-- Interested in Data-driven solutions
+Aspiring data scientist on a mission to master machine learning and AI. Passionate about solving complex problems, building impactful models, and continuously improving through experimentation and learning.
 
 ---
 
