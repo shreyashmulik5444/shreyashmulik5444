@@ -13,14 +13,14 @@ I explore, experiment, build models, and continuously push my limits. Every proj
 ---
 
 ## 🔸 TECHNICAL SKILLS
-• Programming Languages: Python, c, C++
-• Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib
-• Generative AI: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
-• Natural Language Processing: Tokenization, TF-IDF, Sentence Transformers, Text Embeddings
-• Vector Database: FAISS
-• Databases: MySQL
-• Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Streamlit
-• Core Concepts: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Model Evaluation,
+-Programming Languages: Python, c, C++
+- Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib
+- Generative AI: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
+- Natural Language Processing: Tokenization, TF-IDF, Sentence Transformers, Text Embeddings
+- Vector Database: FAISS
+- Databases: MySQL
+- Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Streamlit
+- Core Concepts: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Model Evaluation,
 Cross Validation, Hyperparameter Tuning
 
 ---
